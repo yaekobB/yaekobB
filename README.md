@@ -8,13 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: AI is not just code, it's creativity.
 
-
-
-## 💫 About Me:
-
-🚀 **Data Scientist | Software Engineer | Full-Stack Developer**
-* I'm passionate about building intelligent systems, analyzing data, and developing scalable software solutions. My expertise lies in Data Science, Machine Learning, Full-Stack Development, and Cloud Technologies.
-
 ### 💻 Tech Stack:
 
 ### **👨‍💻 Programming**
@@ -38,21 +31,4 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-### **🌐 Web Development**
-![VueJs](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### **⚙️ DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-336791?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gebreyowhans&layout=compact&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gebreyowhans&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gebreyowhans&theme=github-dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gebreyowhans&theme=onedark)
-💡 
 
