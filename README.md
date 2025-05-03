@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on AI, Deep Learning, Analyzing and Visualizing Data and System development
 - 🤔 I’m looking for help with Contributing to impactful research in AI for social good
 - 💬 Ask me about Deep Learning, NLP, Machine Learning, and Full-Stack Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/yaekob-beyene-yowhanns) [yaekob2015@gmail.com]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yaekob-beyene-yowhanns) [yaekob2015@gmail.com]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -13,13 +13,6 @@
 
 🚀 **Data Scientist | Software Engineer | Full-Stack Developer**
 * I'm passionate about building intelligent systems, analyzing data, and developing scalable software solutions. My expertise lies in Data Science, Machine Learning, Full-Stack Development, and Cloud Technologies.
-
-  ### 📈 Current Focus
-- Enhancing my skills in **Azure Data Science & Cloud AI Solutions,LLM,Generative AI**
-- Working on **research projects relying on the application of AI and deep learning in healthcare.**
-
-### 🌐 Socials:
-  [LinkedIn](https://www.linkedin.com/in/gebreyowhansbahre),[GitLab](https://gitlab.com/Gebreyowhans)
 
 ### 💻 Tech Stack:
 
