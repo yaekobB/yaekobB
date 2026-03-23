@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Yaekob
-- 🔭 I’m currently working on MultiAgent System with CrewAI, Deep Learning Projects
+- 🔭 I’m currently working on Deep Learning Projects, RAG, MultiAgent System with CrewAI
 - 🌱 I’m currently learning Intelligent Systems, LLMs, Data Science and Artificial Intelligence
 - 👯 I’m looking to collaborate on AI, Deep Learning, Analyzing and Visualizing Data and System development
 - 🤔 I’m looking for help with Contributing to impactful research in AI for social good
