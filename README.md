@@ -121,16 +121,7 @@ A Docker-first medical knowledge graph pipeline that converts medical CSV data i
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaekobB&show_icons=true&theme=default&hide_border=false" alt="Yaekob's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaekobB&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
-</p>
----
 
 ## 📌 Note
 
